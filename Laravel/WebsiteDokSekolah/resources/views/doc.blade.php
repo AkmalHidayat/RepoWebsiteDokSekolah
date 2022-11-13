@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <p>Docs</p>
     <a href="/"><button>Halo</button></a>
     <a href="doc"><button>Ke Hal 2</button></a>
 </body>
